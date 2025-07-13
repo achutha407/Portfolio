@@ -4,4 +4,4 @@ This is my personal portfolio website — a place where I showcase what I’ve b
 
 <img align="right" src="pics/valochar.png" width="250" alt="Portfolio Preview">
 
-Wanna connect? Scroll to the bottom or just hit up my LinkedIn/GitHub. And yep, every bit of this site was designed and coded by me 💻🔥
+Wanna connect? Scroll to the bottom or just hit up my LinkedIn/GitHub 💻🔥
