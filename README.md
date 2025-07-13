@@ -1,29 +1,7 @@
-# 🔥 Achuthanantha N J – Portfolio
+# 👋 Hey there, I'm Achuthanantha N J
 
-A sleek, responsive developer portfolio built with HTML, CSS, and JavaScript. Features dark/light theme, animated sections, a 3D-style project carousel, and more.
+This is my personal portfolio website — a place where I showcase what I’ve built, what I love, and what I’m learning. From Java and Python to React and UI design, you’ll find my skills, certifications, projects, and research all in one place. Built with just HTML, CSS, and JavaScript (no frameworks), it’s clean, responsive, and theme-toggle ready.
 
-<img align="right" src="pics/valochar.png" width="300" alt="Portfolio Preview">
+<img align="right" src="pics/valochar.png" width="250" alt="Portfolio Preview">
 
-## 🚀 Features
-
-- 🧑‍💻 Typewriter intro with sidebar nav
-- 🌗 Theme toggle with favicon switch
-- 🧠 Skills + Certifications layout
-- 🧪 Projects carousel (Samsung drawer style)
-- 📚 IEEE & Springer Publications
-- 📬 Contact form + social links
-
-## 🛠️ Tech Stack
-
-- HTML5, CSS3, JavaScript
-- AOS (Animate on Scroll)
-- Responsive design
-
-## 🔗 Links
-
-- 🔗 [Live Site]([https://your-portfolio-link.com](https://achutha407.github.io/Portfolio/))
-
----
-
-
-
+Wanna connect? Scroll to the bottom or just hit up my LinkedIn/GitHub. And yep, every bit of this site was designed and coded by me 💻🔥
