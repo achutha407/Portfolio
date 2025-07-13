@@ -21,10 +21,9 @@ A sleek, responsive developer portfolio built with HTML, CSS, and JavaScript. Fe
 
 ## 🔗 Links
 
-- 🔗 [Live Site](https://your-portfolio-link.com)
-- 📁 [Projects GitHub](https://github.com/achutha407)
+- 🔗 [Live Site]([https://your-portfolio-link.com](https://achutha407.github.io/Portfolio/))
 
 ---
 
-Feel free to fork, clone, or use this layout for your own portfolio. If you like it, drop a ⭐!
+
 
